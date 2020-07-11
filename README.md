@@ -1,2 +1,1 @@
-# Sboeh
-Starting point
+Sboza here i like new challanges, currently learning python
