@@ -13,7 +13,7 @@ Pillow==5.1.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 PyAutoGUI==0.9.36
-Pygments==2.2.0
+Pygments==2.7.4
 PyMsgBox==1.0.6
 PyScreeze==0.1.14
 python3-xlib==0.15
